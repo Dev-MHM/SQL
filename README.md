@@ -16,7 +16,7 @@ SQLiv
 ---
 
 **Installation**  
-1. git clone https://github.com/Dev-MHM/SQLvi
+1. git clone https://github.com/Dev-MHM/SQLvi.git
 2. sudo python2 setup.py -i
 
 > Dependencies  
