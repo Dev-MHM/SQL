@@ -1,6 +1,6 @@
 # SQLiv v2.0
-# Ghost (github.com/Hadesy2k)
-# official.ghost@tuta.io
+# Ghost (https://github.com/Dev-MHM/SQLvi)
+# MHM
 
 import argparse
 from urlparse import urlparse
