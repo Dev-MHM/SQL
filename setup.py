@@ -7,8 +7,8 @@ from shutil import copy2, rmtree
 from distutils.dir_util import copy_tree
 
 
-__author__ = "Ghost"
-__email__ = "official.ghost@tuta.io"
+__author__ = "DevMHM"
+__email__ = "Mohammadihussein.m@gmail.com"
 __license__ = "GPL"
 __version__ = "2.0"
 
