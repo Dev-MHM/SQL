@@ -1,6 +1,3 @@
-# Unofficial Simple Yahoo Scraper by Ghost
-# official.ghost@tuta.io
-
 import urllib2
 import bs4
 
