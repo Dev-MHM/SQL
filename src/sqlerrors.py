@@ -1,6 +1,6 @@
 import re
 
-# thanks Ekultek (https://github.com/Ekultek) for giving better idea of detection
+
 sql_errors = {
     "MySQL": (r"SQL syntax.*MySQL", r"Warning.*mysql_.*", r"MySQL Query fail.*", r"SQL syntax.*MariaDB server"),
     "PostgreSQL": (r"PostgreSQL.*ERROR", r"Warning.*\Wpg_.*", r"Warning.*PostgreSQL"),
